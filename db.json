@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "username": "user1",
+      "password": "password123",
+      "nomorbot": "bot001"
+    },
+    {
+      "username": "user2",
+      "password": "securepass",
+      "nomorbot": "bot002"
+    },
+    {
+      "username": "user3",
+      "password": "myp@ssw0rd",
+      "nomorbot": "bot003"
+    }
+  ]
+}
