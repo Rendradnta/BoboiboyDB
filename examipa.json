@@ -1,0 +1,972 @@
+[
+  {
+    "question": "Satuan internasional (SI) untuk gaya adalah...",
+    "options": [
+      "Watt",
+      "Joule",
+      "Newton",
+      "Pascal"
+    ],
+    "correct_answer": "Newton"
+  },
+  {
+    "question": "Proses perubahan wujud zat dari padat menjadi gas disebut...",
+    "options": [
+      "Mencair",
+      "Membeku",
+      "Menguap",
+      "Menyublim"
+    ],
+    "correct_answer": "Menyublim"
+  },
+  {
+    "question": "Organel sel yang berperan dalam menghasilkan energi melalui respirasi sel adalah...",
+    "options": [
+      "Ribosom",
+      "Lisosom",
+      "Mitokondria",
+      "Retikulum Endoplasma"
+    ],
+    "correct_answer": "Mitokondria"
+  },
+  {
+    "question": "Unsur kimia dengan nomor atom 8 dan konfigurasi elektron 2,6 adalah...",
+    "options": [
+      "Nitrogen",
+      "Oksigen",
+      "Fluorin",
+      "Neon"
+    ],
+    "correct_answer": "Oksigen"
+  },
+  {
+    "question": "Gerak lurus dengan kecepatan yang tetap disebut...",
+    "options": [
+      "Gerak lurus berubah beraturan",
+      "Gerak lurus dipercepat",
+      "Gerak lurus diperlambat",
+      "Gerak lurus beraturan"
+    ],
+    "correct_answer": "Gerak lurus beraturan"
+  },
+  {
+    "question": "Jaringan tumbuhan yang berfungsi mengangkut air dan mineral dari akar ke daun adalah...",
+    "options": [
+      "Floem",
+      "Xilem",
+      "Parenkim",
+      "Sklerenkim"
+    ],
+    "correct_answer": "Xilem"
+  },
+  {
+    "question": "Reaksi kimia antara asam dan basa menghasilkan...",
+    "options": [
+      "Garam dan air",
+      "Asam kuat",
+      "Basa kuat",
+      "Logam"
+    ],
+    "correct_answer": "Garam dan air"
+  },
+  {
+    "question": "Kemampuan suatu benda untuk kembali ke bentuk semula setelah gaya yang bekerja padanya dihilangkan disebut...",
+    "options": [
+      "Kekuatan",
+      "Massa",
+      "Elastisitas",
+      "Kekakuan"
+    ],
+    "correct_answer": "Elastisitas"
+  },
+  {
+    "question": "Proses pembentukan gamet (sel kelamin) pada hewan dan tumbuhan disebut...",
+    "options": [
+      "Fertilisasi",
+      "Reproduksi",
+      "Gametogenesis",
+      "Metamorfosis"
+    ],
+    "correct_answer": "Gametogenesis"
+  },
+  {
+    "question": "Partikel penyusun atom yang bermuatan positif adalah...",
+    "options": [
+      "Elektron",
+      "Neutron",
+      "Proton",
+      "Foton"
+    ],
+    "correct_answer": "Proton"
+  },
+  {
+    "question": "Perpindahan kalor yang terjadi tanpa disertai perpindahan zat perantara disebut...",
+    "options": [
+      "Konduksi",
+      "Konveksi",
+      "Radiasi",
+      "Evaporasi"
+    ],
+    "correct_answer": "Radiasi"
+  },
+  {
+    "question": "Enzim yang berperan dalam proses pencernaan karbohidrat di mulut adalah...",
+    "options": [
+      "Pepsin",
+      "Tripsin",
+      "Amilase",
+      "Lipase"
+    ],
+    "correct_answer": "Amilase"
+  },
+  {
+    "question": "Ikatan kimia yang terbentuk karena adanya serah terima elektron antara dua atom disebut...",
+    "options": [
+      "Ikatan kovalen",
+      "Ikatan ion",
+      "Ikatan logam",
+      "Ikatan hidrogen"
+    ],
+    "correct_answer": "Ikatan ion"
+  },
+  {
+    "question": "Hukum Archimedes berkaitan dengan konsep...",
+    "options": [
+      "Tekanan zat padat",
+      "Tekanan zat cair",
+      "Tekanan zat gas",
+      "Kalor"
+    ],
+    "correct_answer": "Tekanan zat cair"
+  },
+  {
+    "question": "Organ tumbuhan yang berfungsi sebagai tempat terjadinya penguapan air (transpirasi) terbesar adalah...",
+    "options": [
+      "Akar",
+      "Batang",
+      "Daun",
+      "Bunga"
+    ],
+    "correct_answer": "Daun"
+  },
+  {
+    "question": "Larutan dengan pH kurang dari 7 bersifat...",
+    "options": [
+      "Netral",
+      "Basa",
+      "Asam",
+      "Amfoter"
+    ],
+    "correct_answer": "Asam"
+  },
+  {
+    "question": "Gelombang yang arah rambatnya tegak lurus dengan arah getarnya disebut...",
+    "options": [
+      "Gelombang longitudinal",
+      "Gelombang transversal",
+      "Gelombang mekanik",
+      "Gelombang elektromagnetik"
+    ],
+    "correct_answer": "Gelombang transversal"
+  },
+  {
+    "question": "Proses pernapasan pada manusia terjadi di dalam...",
+    "options": [
+      "Jantung",
+      "Lambung",
+      "Paru-paru",
+      "Ginjal"
+    ],
+    "correct_answer": "Paru-paru"
+  },
+  {
+    "question": "Rumus kimia untuk glukosa adalah...",
+    "options": [
+      "H2O",
+      "CO2",
+      "C6H12O6",
+      "NaCl"
+    ],
+    "correct_answer": "C6H12O6"
+  },
+  {
+    "question": "Kapasitas suatu benda untuk melakukan usaha disebut...",
+    "options": [
+      "Gaya",
+      "Energi",
+      "Daya",
+      "Momentum"
+    ],
+    "correct_answer": "Energi"
+  },
+  {
+    "question": "Bagian bunga yang berfungsi sebagai alat kelamin betina adalah...",
+    "options": [
+      "Benang sari",
+      "Kepala sari",
+      "Putik",
+      "Kelopak"
+    ],
+    "correct_answer": "Putik"
+  },
+  {
+    "question": "Reaksi pembakaran sempurna hidrokarbon menghasilkan...",
+    "options": [
+      "CO dan H2O",
+      "C dan H2O",
+      "CO2 dan H2O",
+      "CH4 dan O2"
+    ],
+    "correct_answer": "CO2 dan H2O"
+  },
+  {
+    "question": "Cermin yang permukaannya melengkung ke dalam disebut...",
+    "options": [
+      "Cermin datar",
+      "Cermin cembung",
+      "Cermin cekung",
+      "Cermin silindris"
+    ],
+    "correct_answer": "Cermin cekung"
+  },
+  {
+    "question": "Sistem peredaran darah pada manusia termasuk sistem peredaran darah...",
+    "options": [
+      "Terbuka",
+      "Tertutup",
+      "Ganda terbuka",
+      "Tunggal"
+    ],
+    "correct_answer": "Tertutup"
+  },
+  {
+    "question": "Isotop suatu unsur memiliki jumlah ... yang sama.",
+    "options": [
+      "Neutron",
+      "Nomor massa",
+      "Proton",
+      "Elektron"
+    ],
+    "correct_answer": "Proton"
+  },
+  {
+    "question": "Peristiwa membeloknya arah rambat cahaya saat melalui dua medium yang berbeda kerapatannya disebut...",
+    "options": [
+      "Pemantulan",
+      "Pembiasan",
+      "Difraksi",
+      "Interferensi"
+    ],
+    "correct_answer": "Pembiasan"
+  },
+  {
+    "question": "Hormon yang berperan dalam mengatur kadar gula darah adalah...",
+    "options": [
+      "Adrenalin",
+      "Tiroksin",
+      "Insulin",
+      "Estrogen"
+    ],
+    "correct_answer": "Insulin"
+  },
+  {
+    "question": "Larutan yang dapat menghantarkan arus listrik disebut...",
+    "options": [
+      "Larutan non elektrolit",
+      "Larutan elektrolit",
+      "Suspensi",
+      "Koloid"
+    ],
+    "correct_answer": "Larutan elektrolit"
+  },
+  {
+    "question": "Alat yang digunakan untuk mengukur kuat arus listrik adalah...",
+    "options": [
+      "Voltmeter",
+      "Ohmmeter",
+      "Amperemeter",
+      "Multimeter"
+    ],
+    "correct_answer": "Amperemeter"
+  },
+  {
+    "question": "Pencernaan protein dimulai di...",
+    "options": [
+      "Mulut",
+      "Kerongkongan",
+      "Lambung",
+      "Usus halus"
+    ],
+    "correct_answer": "Lambung"
+  },
+  {
+    "question": "Senyawa organik yang merupakan monomer dari protein adalah...",
+    "options": [
+      "Glukosa",
+      "Asam lemak",
+      "Asam amino",
+      "Nukleotida"
+    ],
+    "correct_answer": "Asam amino"
+  },
+  {
+    "question": "Planet dalam tata surya yang memiliki cincin paling jelas adalah...",
+    "options": [
+      "Jupiter",
+      "Saturnus",
+      "Uranus",
+      "Neptunus"
+    ],
+    "correct_answer": "Saturnus"
+  },
+  {
+    "question": "Proses pemisahan campuran berdasarkan perbedaan titik didih disebut...",
+    "options": [
+      "Filtrasi",
+      "Sublimasi",
+      "Destilasi",
+      "Kromatografi"
+    ],
+    "correct_answer": "Destilasi"
+  },
+  {
+    "question": "Bunyi yang frekuensinya lebih tinggi dari 20.000 Hz disebut...",
+    "options": [
+      "Infrasonik",
+      "Audiosonik",
+      "Ultrasonik",
+      "Hipersonik"
+    ],
+    "correct_answer": "Ultrasonik"
+  },
+  {
+    "question": "Bagian otak yang mengatur keseimbangan tubuh adalah...",
+    "options": [
+      "Otak besar (Serebrum)",
+      "Otak kecil (Serebelum)",
+      "Batang otak",
+      "Hipotalamus"
+    ],
+    "correct_answer": "Otak kecil (Serebelum)"
+  },
+  {
+    "question": "Penyakit kekurangan vitamin D dapat menyebabkan...",
+    "options": [
+      "Sariawan",
+      "Anemia",
+      "Rakhitis",
+      "Beri-beri"
+    ],
+    "correct_answer": "Rakhitis"
+  },
+  {
+    "question": "Reaksi kimia yang melepaskan kalor ke lingkungan disebut...",
+    "options": [
+      "Reaksi endoterm",
+      "Reaksi eksoterm",
+      "Reaksi redoks",
+      "Reaksi netralisasi"
+    ],
+    "correct_answer": "Reaksi eksoterm"
+  },
+  {
+    "question": "Lensa yang bersifat mengumpulkan cahaya disebut...",
+    "options": [
+      "Lensa divergen",
+      "Lensa negatif",
+      "Lensa konvergen",
+      "Lensa silindris"
+    ],
+    "correct_answer": "Lensa konvergen"
+  },
+  {
+    "question": "Virus influenza menyebabkan penyakit pada sistem...",
+    "options": [
+      "Pencernaan",
+      "Pernapasan",
+      "Saraf",
+      "Ekskresi"
+    ],
+    "correct_answer": "Pernapasan"
+  },
+  {
+    "question": "Massa jenis air murni pada suhu 4°C adalah...",
+    "options": [
+      "100 kg/m³",
+      "1000 kg/m³",
+      "10.000 kg/m³",
+      "1 kg/m³"
+    ],
+    "correct_answer": "1000 kg/m³"
+  },
+  {
+    "question": "Proses penggabungan inti atom kecil menjadi inti atom yang lebih besar disertai pelepasan energi disebut...",
+    "options": [
+      "Fisi",
+      "Fusi",
+      "Peluruhan",
+      "Ionisasi"
+    ],
+    "correct_answer": "Fusi"
+  },
+  {
+    "question": "Bagian mata yang berfungsi mengatur jumlah cahaya yang masuk adalah...",
+    "options": [
+      "Kornea",
+      "Pupil",
+      "Iris",
+      "Lensa"
+    ],
+    "correct_answer": "Iris"
+  },
+  {
+    "question": "Senyawa yang memiliki rumus empiris yang sama tetapi rumus molekul yang berbeda disebut...",
+    "options": [
+      "Isomer",
+      "Isotop",
+      "Isobar",
+      "Alotrop"
+    ],
+    "correct_answer": "Isomer"
+  },
+  {
+    "question": "Gaya tarik-menarik antara molekul-molekul sejenis disebut...",
+    "options": [
+      "Kohesi",
+      "Adhesi",
+      "Kapilaritas",
+      "Viskositas"
+    ],
+    "correct_answer": "Kohesi"
+  },
+  {
+    "question": "Organel sel yang berfungsi sebagai tempat sintesis protein adalah...",
+    "options": [
+      "Nukleus",
+      "Mitokondria",
+      "Ribosom",
+      "Lisosom"
+    ],
+    "correct_answer": "Ribosom"
+  },
+  {
+    "question": "Perubahan energi listrik menjadi energi cahaya terjadi pada...",
+    "options": [
+      "Kipas angin",
+      "Setrika listrik",
+      "Lampu pijar",
+      "Blender"
+    ],
+    "correct_answer": "Lampu pijar"
+  },
+  {
+    "question": "Lapisan ozon di atmosfer berfungsi untuk melindungi bumi dari radiasi...",
+    "options": [
+      "Inframerah",
+      "Ultraviolet",
+      "Gamma",
+      "Sinar-X"
+    ],
+    "correct_answer": "Ultraviolet"
+  },
+  {
+    "question": "Kromosom pada sel manusia berjumlah...",
+    "options": [
+      "23 pasang",
+      "48 buah",
+      "46 pasang",
+      "22 pasang"
+    ],
+    "correct_answer": "23 pasang"
+  },
+  {
+    "question": "Sebuah benda bermassa 2 kg bergerak dengan kecepatan 3 m/s. Jika gaya sebesar 6 N dikerjakan pada benda tersebut searah dengan geraknya selama 2 detik, berapakah kecepatan akhir benda tersebut?",
+    "options": [
+      "6 m/s",
+      "9 m/s",
+      "12 m/s",
+      "15 m/s"
+    ],
+    "correct_answer": "9 m/s"
+  },
+  {
+    "question": "Larutan buffer yang memiliki pH di atas 7 dapat dibuat dengan mencampurkan...",
+    "options": [
+      "Asam lemah dan garamnya dengan basa kuat",
+      "Basa lemah dan garamnya dengan asam kuat",
+      "Asam kuat dan basa kuat dalam jumlah yang sama",
+      "Asam kuat dan garamnya dengan basa lemah"
+    ],
+    "correct_answer": "Basa lemah dan garamnya dengan asam kuat"
+  },
+  {
+    "question": "Pada siklus Calvin, molekul CO2 diikat oleh senyawa...",
+    "options": [
+      "Gliseraldehida-3-fosfat (G3P)",
+      "Ribulose-1,5-bisfosfat (RuBP)",
+      "Asam fosfogliserat (PGA)",
+      "Fruktosa-6-fosfat"
+    ],
+    "correct_answer": "Ribulose-1,5-bisfosfat (RuBP)"
+  },
+  {
+    "question": "Sebuah transformator memiliki kumparan primer dengan 100 lilitan dan kumparan sekunder dengan 500 lilitan. Jika tegangan pada kumparan primer adalah 110 V, berapakah tegangan pada kumparan sekunder?",
+    "options": [
+      "22 V",
+      "550 V",
+      "110 V",
+      "27.5 V"
+    ],
+    "correct_answer": "550 V"
+  },
+  {
+    "question": "Suatu reaksi kimia memiliki laju reaksi yang meningkat empat kali lipat ketika konsentrasi salah satu reaktannya dinaikkan dua kali lipat. Orde reaksi terhadap reaktan tersebut adalah...",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "Penyakit genetik yang disebabkan oleh trisomi pada kromosom nomor 21 adalah...",
+    "options": [
+      "Sindrom Turner",
+      "Sindrom Klinefelter",
+      "Sindrom Down",
+      "Hemofilia"
+    ],
+    "correct_answer": "Sindrom Down"
+  },
+  {
+    "question": "Dua buah muatan listrik masing-masing +2 μC dan -4 μC terpisah sejauh 3 cm. Berapakah gaya tarik-menarik antara kedua muatan tersebut? (k = 9 x 10^9 Nm²/C²)",
+    "options": [
+      "80 N",
+      "8 N",
+      "0.8 N",
+      "800 N"
+    ],
+    "correct_answer": "80 N"
+  },
+  {
+    "question": "Jika 200 mL larutan HCl 0.1 M direaksikan dengan 100 mL larutan Ba(OH)2 0.2 M, pH larutan yang terbentuk adalah...",
+    "options": [
+      "1",
+      "7",
+      "13",
+      "3"
+    ],
+    "correct_answer": "13"
+  },
+  {
+    "question": "Proses replikasi DNA terjadi pada fase...",
+    "options": [
+      "G1",
+      "S",
+      "G2",
+      "M"
+    ],
+    "correct_answer": "S"
+  },
+  {
+    "question": "Sebuah benda hitam sempurna memiliki suhu 27°C. Jika suhunya dinaikkan menjadi 327°C, intensitas radiasi yang dipancarkan akan meningkat menjadi berapa kali lipat?",
+    "options": [
+      "4 kali",
+      "9 kali",
+      "16 kali",
+      "81 kali"
+    ],
+    "correct_answer": "16 kali"
+  },
+  {
+    "question": "Senyawa berikut yang memiliki ikatan kovalen polar adalah...",
+    "options": [
+      "O2",
+      "CH4",
+      "CCl4",
+      "HCl"
+    ],
+    "correct_answer": "HCl"
+  },
+  {
+    "question": "Hukum Mendel II (hukum penggabungan bebas) berlaku untuk gen-gen yang terletak pada...",
+    "options": [
+      "Kromosom yang sama",
+      "Kromosom homolog",
+      "Kromosom yang berbeda",
+      "Autosom"
+    ],
+    "correct_answer": "Kromosom yang berbeda"
+  },
+  {
+    "question": "Sebuah kawat penghantar memiliki panjang 2 meter dan luas penampang 4 mm². Jika resistivitas kawat adalah 5 x 10^-7 Ωm, berapakah resistansi kawat tersebut?",
+    "options": [
+      "0.25 Ω",
+      "2.5 Ω",
+      "0.025 Ω",
+      "25 Ω"
+    ],
+    "correct_answer": "0.25 Ω"
+  },
+  {
+    "question": "Jika tetapan kesetimbangan (Kc) untuk reaksi A + B ⇌ C adalah 4, dan konsentrasi awal A dan B masing-masing adalah 2 M, berapakah konsentrasi C pada saat kesetimbangan?",
+    "options": [
+      "1.6 M",
+      "3.2 M",
+      "0.8 M",
+      "4 M"
+    ],
+    "correct_answer": "1.6 M"
+  },
+  {
+    "question": "Urutan aliran energi yang benar dalam suatu ekosistem adalah...",
+    "options": [
+      "Konsumen → Produsen → Pengurai",
+      "Produsen → Konsumen → Pengurai",
+      "Pengurai → Produsen → Konsumen",
+      "Pengurai → Konsumen → Produsen"
+    ],
+    "correct_answer": "Produsen → Konsumen → Pengurai"
+  },
+  {
+    "question": "Sebuah gelombang bunyi memiliki frekuensi 500 Hz dan panjang gelombang 0.7 meter. Berapakah cepat rambat gelombang bunyi tersebut?",
+    "options": [
+      "350 m/s",
+      "714 m/s",
+      "500 m/s",
+      "0.7 m/s"
+    ],
+    "correct_answer": "350 m/s"
+  },
+  {
+    "question": "Proses pemisahan ion-ion pada larutan elektrolit oleh arus listrik searah disebut...",
+    "options": [
+      "Hidrolisis",
+      "Reduksi",
+      "Oksidasi",
+      "Elektrolisis"
+    ],
+    "correct_answer": "Elektrolisis"
+  },
+  {
+    "question": "Hormon yang berperan dalam proses metamorfosis pada serangga adalah...",
+    "options": [
+      "Adrenalin",
+      "Insulin",
+      "Eksdison",
+      "Testosteron"
+    ],
+    "correct_answer": "Eksdison"
+  },
+  {
+    "question": "Sebuah lensa cembung memiliki fokus 10 cm. Jika sebuah benda diletakkan 15 cm di depan lensa, berapakah jarak bayangan yang terbentuk?",
+    "options": [
+      "30 cm",
+      "6 cm",
+      "15 cm",
+      "25 cm"
+    ],
+    "correct_answer": "30 cm"
+  },
+  {
+    "question": "Manakah dari pernyataan berikut yang benar mengenai efek Doppler?",
+    "options": [
+      "Frekuensi bunyi yang diterima pendengar tidak bergantung pada kecepatan sumber bunyi.",
+      "Frekuensi bunyi yang diterima pendengar selalu lebih tinggi dari frekuensi sumber bunyi.",
+      "Frekuensi bunyi yang diterima pendengar berubah karena adanya gerakan relatif antara sumber bunyi dan pendengar.",
+      "Efek Doppler hanya berlaku untuk gelombang bunyi."
+    ],
+    "correct_answer": "Frekuensi bunyi yang diterima pendengar berubah karena adanya gerakan relatif antara sumber bunyi dan pendengar."
+  },
+  {
+    "question": "Kenaikan titik didih larutan yang disebabkan oleh penambahan zat terlarut yang tidak mudah menguap berbanding lurus dengan...",
+    "options": [
+      "Massa pelarut",
+      "Massa molar pelarut",
+      "Molalitas larutan",
+      "Molaritas larutan"
+    ],
+    "correct_answer": "Molalitas larutan"
+  },
+  {
+    "question": "Organisme yang memiliki kemampuan untuk mengubah nitrogen bebas di udara menjadi senyawa nitrogen yang dapat digunakan oleh tumbuhan adalah...",
+    "options": [
+      "Jamur saprofit",
+      "Bakteri denitrifikasi",
+      "Bakteri pengikat nitrogen",
+      "Virus"
+    ],
+    "correct_answer": "Bakteri pengikat nitrogen"
+  },
+  {
+    "question": "Sebuah mobil bergerak dengan kecepatan 72 km/jam. Jika jari-jari rodanya adalah 30 cm, berapakah kecepatan sudut roda mobil tersebut?",
+    "options": [
+      "40 rad/s",
+      "240 rad/s",
+      "4 rad/s",
+      "80 rad/s"
+    ],
+    "correct_answer": "40 rad/s"
+  },
+  {
+    "question": "Reaksi antara logam alkali tanah dengan air menghasilkan...",
+    "options": [
+      "Logam hidroksida dan gas hidrogen",
+      "Logam oksida dan gas oksigen",
+      "Logam superoksida dan air",
+      "Logam peroksida dan gas hidrogen"
+    ],
+    "correct_answer": "Logam hidroksida dan gas hidrogen"
+  },
+  {
+    "question": "Proses pembentukan ATP pada respirasi aerob yang menghasilkan ATP terbanyak terjadi pada tahap...",
+    "options": [
+      "Glikolisis",
+      "Siklus Krebs",
+      "Dekarboksilasi oksidatif",
+      "Rantai transport elektron"
+    ],
+    "correct_answer": "Rantai transport elektron"
+  },
+  {
+    "question": "Sebuah benda diletakkan di depan cermin cekung yang memiliki jari-jari kelengkungan 20 cm. Jika jarak benda ke cermin adalah 30 cm, sifat bayangan yang terbentuk adalah...",
+    "options": [
+      "Nyata, tegak, diperbesar",
+      "Nyata, terbalik, diperkecil",
+      "Nyata, terbalik, diperbesar",
+      "Maya, tegak, diperbesar"
+    ],
+    "correct_answer": "Nyata, terbalik, diperkecil"
+  },
+  {
+    "question": "Manakah dari pernyataan berikut yang benar mengenai hukum kekekalan momentum?",
+    "options": [
+      "Momentum total sistem selalu bertambah.",
+      "Momentum total sistem selalu berkurang.",
+      "Momentum total sistem akan tetap konstan jika tidak ada gaya luar yang bekerja pada sistem.",
+      "Momentum setiap benda dalam sistem selalu konstan."
+    ],
+    "correct_answer": "Momentum total sistem akan tetap konstan jika tidak ada gaya luar yang bekerja pada sistem."
+  },
+  {
+    "question": "Titik ekivalen pada titrasi asam lemah dengan basa kuat akan berada pada pH...",
+    "options": [
+      "Kurang dari 7",
+      "Sama dengan 7",
+      "Lebih dari 7",
+      "Tergantung pada konsentrasi asam dan basa"
+    ],
+    "correct_answer": "Lebih dari 7"
+  },
+  {
+    "question": "Enzim restriksi digunakan dalam rekayasa genetika untuk...",
+    "options": [
+      "Menggabungkan fragmen-fragmen DNA",
+      "Memperbanyak fragmen DNA",
+      "Memotong DNA pada urutan tertentu",
+      "Membaca urutan basa DNA"
+    ],
+    "correct_answer": "Memotong DNA pada urutan tertentu"
+  },
+  {
+    "question": "Sebuah satelit mengorbit bumi pada ketinggian tertentu dengan kecepatan konstan. Gaya yang mempertahankan satelit tetap berada di orbit adalah...",
+    "options": [
+      "Gaya normal",
+      "Gaya sentrifugal",
+      "Gaya gravitasi",
+      "Gaya gesek udara"
+    ],
+    "correct_answer": "Gaya gravitasi"
+  },
+  {
+    "question": "Dalam sel elektrokimia, reaksi reduksi terjadi pada...",
+    "options": [
+      "Anoda",
+      "Katoda",
+      "Jembatan garam",
+      "Elektrolit"
+    ],
+    "correct_answer": "Katoda"
+  },
+  {
+    "question": "Proses pembentukan RNA dari DNA disebut...",
+    "options": [
+      "Replikasi",
+      "Translasi",
+      "Transkripsi",
+      "Mutasi"
+    ],
+    "correct_answer": "Transkripsi"
+  },
+  {
+    "question": "Sebuah pegas dengan konstanta pegas 200 N/m ditarik sejauh 10 cm. Berapakah energi potensial elastis pegas tersebut?",
+    "options": [
+      "1 J",
+      "0.1 J",
+      "2 J",
+      "0.01 J"
+    ],
+    "correct_answer": "1 J"
+  },
+  {
+    "question": "Manakah dari senyawa berikut yang menunjukkan isomer geometri (cis-trans)?",
+    "options": [
+      "CH3CH2CH3",
+      "CH2=CH2",
+      "CH3CH=CH2",
+      "CH3CH=CHCH3"
+    ],
+    "correct_answer": "CH3CH=CHCH3"
+  },
+  {
+    "question": "Faktor utama yang membedakan antara respirasi aerob dan anaerob adalah...",
+    "options": [
+      "Jenis bahan bakar yang digunakan",
+      "Keberadaan oksigen sebagai penerima elektron terakhir",
+      "Lokasi terjadinya proses dalam sel",
+      "Jumlah ATP yang dihasilkan"
+    ],
+    "correct_answer": "Keberadaan oksigen sebagai penerima elektron terakhir"
+  },
+  {
+    "question": "Sebuah benda dilemparkan vertikal ke atas dengan kecepatan awal 20 m/s. Berapakah ketinggian maksimum yang dicapai benda tersebut? (g = 10 m/s²)",
+    "options": [
+      "10 m",
+      "20 m",
+      "30 m",
+      "40 m"
+    ],
+    "correct_answer": "20 m"
+  },
+  {
+    "question": "Perubahan bilangan oksidasi mangan (Mn) pada reaksi MnO4⁻ → Mn²⁺ dalam suasana asam adalah...",
+    "options": [
+      "Berkurang 2",
+      "Berkurang 3",
+      "Berkurang 5",
+      "Bertambah 2"
+    ],
+    "correct_answer": "Berkurang 5"
+  },
+  {
+    "question": "Molekul RNA yang membawa informasi genetik dari DNA ke ribosom adalah...",
+    "options": [
+      "mRNA",
+      "tRNA",
+      "rRNA",
+      "snRNA"
+    ],
+    "correct_answer": "mRNA"
+  },
+  {
+    "question": "Sebuah balok bermassa 5 kg ditarik dengan gaya 20 N membentuk sudut 30° terhadap bidang horizontal. Jika koefisien gesek statis antara balok dan bidang adalah 0.5, apakah balok akan bergerak?",
+    "options": [
+      "Ya, karena gaya tarik lebih besar dari gaya gesek maksimum.",
+      "Tidak, karena gaya tarik lebih kecil dari gaya gesek maksimum.",
+      "Ya, karena gaya tarik sama dengan gaya gesek maksimum.",
+      "Tidak dapat ditentukan."
+    ],
+    "correct_answer": "Ya, karena gaya tarik lebih besar dari gaya gesek maksimum."
+  },
+  {
+    "question": "Konsep asam basa Lewis mendefinisikan asam sebagai...",
+    "options": [
+      "Spesi yang menerima proton",
+      "Spesi yang mendonorkan proton",
+      "Spesi yang menerima pasangan elektron",
+      "Spesi yang mendonorkan pasangan elektron"
+    ],
+    "correct_answer": "Spesi yang menerima pasangan elektron"
+  },
+  {
+    "question": "Persilangan antara individu dengan genotip AaBbCc dan aabbcc akan menghasilkan keturunan dengan fenotip aabbcc sebesar...",
+    "options": [
+      "1/8",
+      "1/16",
+      "1/32",
+      "1/64"
+    ],
+    "correct_answer": "1/8"
+  },
+  {
+    "question": "Sebuah benda terapung di permukaan air dengan 2/5 bagian volumenya tercelup. Jika massa jenis air adalah 1000 kg/m³, berapakah massa jenis benda tersebut?",
+    "options": [
+      "400 kg/m³",
+      "600 kg/m³",
+      "800 kg/m³",
+      "2500 kg/m³"
+    ],
+    "correct_answer": "400 kg/m³"
+  },
+  {
+    "question": "Laju reaksi suatu reaksi kimia akan meningkat dengan adanya katalis karena katalis...",
+    "options": [
+      "Meningkatkan energi aktivasi",
+      "Menurunkan energi aktivasi",
+      "Mengubah entalpi reaksi",
+      "Meningkatkan konsentrasi reaktan"
+    ],
+    "correct_answer": "Menurunkan energi aktivasi"
+  },
+  {
+    "question": "Pewarisan sifat yang dipengaruhi oleh gen-gen yang terletak pada kromosom seks disebut...",
+    "options": [
+      "Pewarisan autosom",
+      "Pewarisan dominan",
+      "Pewarisan resesif",
+      "Pewarisan terpaut seks"
+    ],
+    "correct_answer": "Pewarisan terpaut seks"
+  },
+  {
+    "question": "Sebuah kumparan memiliki induktansi diri 0.5 H. Jika arus listrik yang mengalir melalui kumparan berubah dari 2 A menjadi 5 A dalam waktu 0.1 detik, berapakah GGL induksi yang timbul pada kumparan?",
+    "options": [
+      "1.5 V",
+      "15 V",
+      "150 V",
+      "0.15 V"
+    ],
+    "correct_answer": "15 V"
+  },
+  {
+    "question": "Manakah dari pernyataan berikut yang tidak benar mengenai sifat koloid?",
+    "options": [
+      "Efek Tyndall",
+      "Gerak Brown",
+      "Mengendap jika didiamkan",
+      "Dapat mengalami koagulasi"
+    ],
+    "correct_answer": "Mengendap jika didiamkan"
+  },
+  {
+    "question": "Organisme yang berperan penting dalam siklus nitrogen melalui proses denitrifikasi adalah...",
+    "options": [
+      "Bakteri Rhizobium",
+      "Alga hijau biru",
+      "Bakteri Pseudomonas",
+      "Jamur mikoriza"
+    ],
+    "correct_answer": "Bakteri Pseudomonas"
+  },
+  {
+    "question": "Sebuah mobil membunyikan klakson dengan frekuensi 400 Hz sambil bergerak menjauhi seorang pengamat dengan kecepatan 20 m/s. Jika cepat rambat bunyi di udara adalah 340 m/s, berapakah frekuensi bunyi yang didengar oleh pengamat?",
+    "options": [
+      "425 Hz",
+      "376 Hz",
+      "400 Hz",
+      "380 Hz"
+    ],
+    "correct_answer": "376 Hz"
+  },
+  {
+    "question": "Konfigurasi elektron ion Fe³⁺ (nomor atom Fe = 26) adalah...",
+    "options": [
+      "[Ar] 3d⁶",
+      "[Ar] 4s² 3d⁴",
+      "[Ar] 3d⁵",
+      "[Ar] 4s¹ 3d⁵"
+    ],
+    "correct_answer": "[Ar] 3d⁵"
+  }
+]
