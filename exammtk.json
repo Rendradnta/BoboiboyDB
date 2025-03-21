@@ -1,0 +1,1024 @@
+[
+  {
+    "question": "Nilai dari 5! adalah...",
+    "options": [
+      "15",
+      "20",
+      "120",
+      "720"
+    ],
+    "correct_answer": "120"
+  },
+  {
+    "question": "Himpunan penyelesaian dari persamaan kuadrat x² - 5x + 6 = 0 adalah...",
+    "options": [
+      "{2, 3}",
+      "{-2, -3}",
+      "{1, 6}",
+      "{-1, -6}"
+    ],
+    "correct_answer": "{2, 3}"
+  },
+  {
+    "question": "Nilai dari log₂ 8 adalah...",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "correct_answer": "3"
+  },
+  {
+    "question": "Gradien garis yang melalui titik (2, 3) dan (4, 7) adalah...",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_answer": "2"
+  },
+  {
+    "question": "Nilai dari sin 30° adalah...",
+    "options": [
+      "1/2",
+      "√2/2",
+      "√3/2",
+      "1"
+    ],
+    "correct_answer": "1/2"
+  },
+  {
+    "question": "Bentuk sederhana dari (x³y²)⁴ adalah...",
+    "options": [
+      "x⁷y⁶",
+      "x¹²y⁸",
+      "x³y⁸",
+      "x¹²y²"
+    ],
+    "correct_answer": "x¹²y⁸"
+  },
+  {
+    "question": "Jika f(x) = 2x + 1 dan g(x) = x² - 3, maka nilai dari f(g(2)) adalah...",
+    "options": [
+      "1",
+      "3",
+      "5",
+      "7"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "Jumlah n suku pertama deret aritmetika dengan suku pertama a dan beda b adalah...",
+    "options": [
+      "n/2 (a + Un)",
+      "n/2 (2a + (n-1)b)",
+      "n (a + (n-1)b)",
+      "a + (n-1)b"
+    ],
+    "correct_answer": "n/2 (2a + (n-1)b)"
+  },
+  {
+    "question": "Vektor posisi titik A adalah (-2, 3) dan vektor posisi titik B adalah (4, -1). Vektor AB adalah...",
+    "options": [
+      "(6, -4)",
+      "(-6, 4)",
+      "(2, 2)",
+      "(-2, -2)"
+    ],
+    "correct_answer": "(6, -4)"
+  },
+  {
+    "question": "Nilai dari cos 60° adalah...",
+    "options": [
+      "1/2",
+      "√2/2",
+      "√3/2",
+      "1"
+    ],
+    "correct_answer": "1/2"
+  },
+  {
+    "question": "Bentuk sederhana dari √(12) + √(27) adalah...",
+    "options": [
+      "√(39)",
+      "5√3",
+      "13√3",
+      "3√13"
+    ],
+    "correct_answer": "5√3"
+  },
+  {
+    "question": "Jika suatu barisan geometri memiliki suku pertama 3 dan rasio 2, maka suku kelima barisan tersebut adalah...",
+    "options": [
+      "24",
+      "48",
+      "96",
+      "192"
+    ],
+    "correct_answer": "48"
+  },
+  {
+    "question": "Persamaan garis yang melalui titik (1, -2) dengan gradien 3 adalah...",
+    "options": [
+      "y = 3x - 5",
+      "y = 3x + 5",
+      "y = -3x + 1",
+      "y = -3x - 1"
+    ],
+    "correct_answer": "y = 3x - 5"
+  },
+  {
+    "question": "Nilai dari tan 45° adalah...",
+    "options": [
+      "0",
+      "1",
+      "√2",
+      "√3"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "Determinan matriks [[2, 1], [3, 4]] adalah...",
+    "options": [
+      "5",
+      "6",
+      "11",
+      "14"
+    ],
+    "correct_answer": "5"
+  },
+  {
+    "question": "Penyelesaian dari sistem persamaan linear x + y = 5 dan x - y = 1 adalah...",
+    "options": [
+      "x=3, y=2",
+      "x=2, y=3",
+      "x=4, y=1",
+      "x=1, y=4"
+    ],
+    "correct_answer": "x=3, y=2"
+  },
+  {
+    "question": "Nilai dari sin 90° adalah...",
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "1/2"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "Luas permukaan bola dengan jari-jari 5 cm adalah...",
+    "options": [
+      "25π cm²",
+      "50π cm²",
+      "100π cm²",
+      "200π cm²"
+    ],
+    "correct_answer": "100π cm²"
+  },
+  {
+    "question": "Jika f(x) = x³ - 2x² + 3x - 1, maka nilai dari f'(2) adalah...",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correct_answer": "7"
+  },
+  {
+    "question": "Nilai dari cos 0° adalah...",
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "√3/2"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "Peluang munculnya mata dadu berjumlah 7 pada pelemparan dua buah dadu adalah...",
+    "options": [
+      "1/6",
+      "1/12",
+      "1/18",
+      "1/36"
+    ],
+    "correct_answer": "1/6"
+  },
+  {
+    "question": "Volume kerucut dengan jari-jari alas 3 cm dan tinggi 4 cm adalah...",
+    "options": [
+      "12π cm³",
+      "16π cm³",
+      "36π cm³",
+      "48π cm³"
+    ],
+    "correct_answer": "12π cm³"
+  },
+  {
+    "question": "Integral dari 2x + 3 terhadap x adalah...",
+    "options": [
+      "x² + 3x + C",
+      "2x² + 3x + C",
+      "x² + C",
+      "3x + C"
+    ],
+    "correct_answer": "x² + 3x + C"
+  },
+  {
+    "question": "Nilai dari tan 135° adalah...",
+    "options": [
+      "1",
+      "-1",
+      "√3",
+      "-√3"
+    ],
+    "correct_answer": "-1"
+  },
+  {
+    "question": "Median dari data: 3, 5, 6, 8, 10 adalah...",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct_answer": "6"
+  },
+  {
+    "question": "Persamaan lingkaran dengan pusat (0, 0) dan jari-jari 4 adalah...",
+    "options": [
+      "x² + y² = 4",
+      "x² + y² = 16",
+      "(x-4)² + (y-4)² = 16",
+      "(x+4)² + (y+4)² = 16"
+    ],
+    "correct_answer": "x² + y² = 16"
+  },
+  {
+    "question": "Nilai dari sin 210° adalah...",
+    "options": [
+      "1/2",
+      "-1/2",
+      "√3/2",
+      "-√3/2"
+    ],
+    "correct_answer": "-1/2"
+  },
+  {
+    "question": "Volume kubus dengan panjang sisi 6 cm adalah...",
+    "options": [
+      "36 cm³",
+      "72 cm³",
+      "216 cm³",
+      "288 cm³"
+    ],
+    "correct_answer": "216 cm³"
+  },
+  {
+    "question": "Turunan dari fungsi f(x) = sin(x) adalah...",
+    "options": [
+      "cos(x)",
+      "-cos(x)",
+      "tan(x)",
+      "-sin(x)"
+    ],
+    "correct_answer": "cos(x)"
+  },
+  {
+    "question": "Nilai dari cos 270° adalah...",
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "1/2"
+    ],
+    "correct_answer": "0"
+  },
+  {
+    "question": "Modus dari data: 2, 3, 3, 4, 5, 5, 5, 6 adalah...",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_answer": "5"
+  },
+  {
+    "question": "Persamaan garis yang sejajar dengan garis y = 2x + 3 dan melalui titik (1, 4) adalah...",
+    "options": [
+      "y = 2x + 2",
+      "y = 2x + 3",
+      "y = 2x + 4",
+      "y = 2x + 5"
+    ],
+    "correct_answer": "y = 2x + 2"
+  },
+  {
+    "question": "Nilai dari tan 315° adalah...",
+    "options": [
+      "1",
+      "-1",
+      "√3",
+      "-√3"
+    ],
+    "correct_answer": "-1"
+  },
+  {
+    "question": "Luas segitiga dengan alas 8 cm dan tinggi 5 cm adalah...",
+    "options": [
+      "13 cm²",
+      "20 cm²",
+      "40 cm²",
+      "80 cm²"
+    ],
+    "correct_answer": "20 cm²"
+  },
+  {
+    "question": "Integral dari cos(x) terhadap x adalah...",
+    "options": [
+      "sin(x) + C",
+      "-sin(x) + C",
+      "tan(x) + C",
+      "-cos(x) + C"
+    ],
+    "correct_answer": "sin(x) + C"
+  },
+  {
+    "question": "Nilai dari sin 150° adalah...",
+    "options": [
+      "1/2",
+      "-1/2",
+      "√3/2",
+      "-√3/2"
+    ],
+    "correct_answer": "1/2"
+  },
+  {
+    "question": "Jarak antara titik (1, 2) dan (4, 6) adalah...",
+    "options": [
+      "√13",
+      "√25",
+      "√34",
+      "√45"
+    ],
+    "correct_answer": "√25"
+  },
+  {
+    "question": "Turunan dari fungsi f(x) = x⁴ - 3x² + 2 adalah...",
+    "options": [
+      "4x³ - 6x",
+      "4x³ - 3x",
+      "x³ - 6x",
+      "x³ - 3x"
+    ],
+    "correct_answer": "4x³ - 6x"
+  },
+  {
+    "question": "Nilai dari cos 180° adalah...",
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "1/2"
+    ],
+    "correct_answer": "-1"
+  },
+  {
+    "question": "Rata-rata dari data: 4, 6, 8, 10, 12 adalah...",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "correct_answer": "8"
+  },
+  {
+    "question": "Persamaan garis yang tegak lurus dengan garis y = -1/2x + 5 dan melalui titik (2, 1) adalah...",
+    "options": [
+      "y = 2x - 3",
+      "y = 2x + 3",
+      "y = -2x + 5",
+      "y = -2x - 3"
+    ],
+    "correct_answer": "y = 2x - 3"
+  },
+  {
+    "question": "Nilai dari tan 225° adalah...",
+    "options": [
+      "1",
+      "-1",
+      "√3",
+      "-√3"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "Volume tabung dengan jari-jari alas 2 cm dan tinggi 5 cm adalah...",
+    "options": [
+      "10π cm³",
+      "20π cm³",
+      "40π cm³",
+      "60π cm³"
+    ],
+    "correct_answer": "20π cm³"
+  },
+  {
+    "question": "Integral dari sin(x) terhadap x adalah...",
+    "options": [
+      "cos(x) + C",
+      "-cos(x) + C",
+      "tan(x) + C",
+      "-sin(x) + C"
+    ],
+    "correct_answer": "-cos(x) + C"
+  },
+  {
+    "question": "Nilai dari sin 330° adalah...",
+    "options": [
+      "1/2",
+      "-1/2",
+      "√3/2",
+      "-√3/2"
+    ],
+    "correct_answer": "-1/2"
+  },
+  {
+    "question": "Titik tengah antara titik (3, -1) dan (-5, 7) adalah...",
+    "options": [
+      "(-1, 3)",
+      "(1, -3)",
+      "(2, 6)",
+      "(-4, 8)"
+    ],
+    "correct_answer": "(-1, 3)"
+  },
+  {
+    "question": "Turunan dari fungsi f(x) = (2x - 1)³ adalah...",
+    "options": [
+      "3(2x - 1)²",
+      "6(2x - 1)²",
+      "2(2x - 1)²",
+      "8(2x - 1)²"
+    ],
+    "correct_answer": "6(2x - 1)²"
+  },
+  {
+    "question": "Nilai dari cos 360° adalah...",
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "1/2"
+    ],
+    "correct_answer": "1"
+  },
+  {
+    "question": "Simpangan baku dari data: 2, 4, 4, 6, 4 adalah...",
+    "options": [
+      "√2",
+      "2",
+      "√3",
+      "3"
+    ],
+    "correct_answer": "√2"
+  },
+  {
+    "question": "Persamaan lingkaran dengan pusat (-2, 3) dan jari-jari 5 adalah...",
+    "options": [
+      "(x - 2)² + (y + 3)² = 25",
+      "(x + 2)² + (y - 3)² = 25",
+      "(x - 2)² + (y + 3)² = 5",
+      "(x + 2)² + (y - 3)² = 5"
+    ],
+    "correct_answer": "(x + 2)² + (y - 3)² = 25"
+  },
+  {
+    "question": "Nilai dari tan 0° adalah...",
+    "options": [
+      "0",
+      "1",
+      "tak terdefinisi",
+      "-1"
+    ],
+    "correct_answer": "0"
+  },
+  {
+    "question": "Luas juring lingkaran dengan sudut pusat 60° dan jari-jari 6 cm adalah...",
+    "options": [
+      "6π cm²",
+      "12π cm²",
+      "18π cm²",
+      "36π cm²"
+    ],
+    "correct_answer": "6π cm²"
+  },
+  {
+    "question": "Integral dari x² terhadap x adalah...",
+    "options": [
+      "1/3 x³ + C",
+      "2x + C",
+      "x³ + C",
+      "1/2 x³ + C"
+    ],
+    "correct_answer": "1/3 x³ + C"
+  },
+  {
+    "question": "Nilai dari sin 270° adalah...",
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "1/2"
+    ],
+    "correct_answer": "-1"
+  },
+  {
+    "question": "Bayangan titik (3, -2) oleh translasi T = (-1, 4) adalah...",
+    "options": [
+      "(2, 2)",
+      "(4, 2)",
+      "(2, -6)",
+      "(4, -6)"
+    ],
+    "correct_answer": "(2, 2)"
+  },
+  {
+    "question": "Turunan dari fungsi f(x) = e^(2x) adalah...",
+    "options": [
+      "e^(2x)",
+      "2e^(2x)",
+      "e^x",
+      "1/2 e^(2x)"
+    ],
+    "correct_answer": "2e^(2x)"
+  },
+  {
+    "question": "Nilai dari cos 90° adalah...",
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "√2/2"
+    ],
+    "correct_answer": "0"
+  },
+  {
+    "question": "Kuartil tengah (Q2) dari data: 7, 8, 9, 10, 11, 12, 13 adalah...",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correct_answer": "10"
+  },
+  {
+    "question": "Persamaan garis yang melalui titik (0, -5) dengan gradien -2 adalah...",
+    "options": [
+      "y = -2x - 5",
+      "y = -2x + 5",
+      "y = 2x - 5",
+      "y = 2x + 5"
+    ],
+    "correct_answer": "y = -2x - 5"
+  },
+  {
+    "question": "Nilai dari tan 180° adalah...",
+    "options": [
+      "0",
+      "1",
+      "tak terdefinisi",
+      "-1"
+    ],
+    "correct_answer": "0"
+  },
+  {
+    "question": "Volume prisma dengan luas alas 15 cm² dan tinggi 8 cm adalah...",
+    "options": [
+      "23 cm³",
+      "120 cm³",
+      "60 cm³",
+      "30 cm³"
+    ],
+    "correct_answer": "120 cm³"
+  },
+  {
+    "question": "Integral dari 1/x terhadap x adalah...",
+    "options": [
+      "ln|x| + C",
+      "x⁻² + C",
+      "-1/x² + C",
+      "1 + C"
+    ],
+    "correct_answer": "ln|x| + C"
+  },
+  {
+    "question": "Nilai dari sin 0° adalah...",
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "1/2"
+    ],
+    "correct_answer": "0"
+  },
+  {
+    "question": "Bayangan titik (-4, 1) oleh rotasi 90° berlawanan arah jarum jam terhadap pusat (0, 0) adalah...",
+    "options": [
+      "(-1, -4)",
+      "(1, 4)",
+      "(-1, 4)",
+      "(1, -4)"
+    ],
+    "correct_answer": "(-1, -4)"
+  },
+  {
+    "question": "Turunan dari fungsi f(x) = ln(3x) adalah...",
+    "options": [
+      "1/x",
+      "3/x",
+      "ln(3)",
+      "ln(x)"
+    ],
+    "correct_answer": "1/x"
+  },
+  {
+    "question": "Nilai dari cos 45° adalah...",
+    "options": [
+      "1/2",
+      "√2/2",
+      "√3/2",
+      "1"
+    ],
+    "correct_answer": "√2/2"
+  },
+  {
+    "question": "Jangkauan interkuartil dari data: 10, 12, 15, 18, 20, 22, 25 adalah...",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "15"
+    ],
+    "correct_answer": "10"
+  },
+  {
+    "question": "Persamaan garis yang melalui titik (-3, 2) dan sejajar sumbu-x adalah...",
+    "options": [
+      "x = -3",
+      "y = 2",
+      "y = -3",
+      "x = 2"
+    ],
+    "correct_answer": "y = 2"
+  },
+  {
+    "question": "Nilai dari tan 90° adalah...",
+    "options": [
+      "0",
+      "1",
+      "tak terdefinisi",
+      "-1"
+    ],
+    "correct_answer": "tak terdefinisi"
+  },
+  {
+    "question": "Luas permukaan kubus dengan panjang rusuk 4 cm adalah...",
+    "options": [
+      "16 cm²",
+      "64 cm²",
+      "96 cm²",
+      "128 cm²"
+    ],
+    "correct_answer": "96 cm²"
+  },
+  {
+    "question": "Integral dari e^x terhadap x adalah...",
+    "options": [
+      "e^x + C",
+      "x e^(x-1) + C",
+      "1/e^x + C",
+      "ln|x| + C"
+    ],
+    "correct_answer": "e^x + C"
+  },
+  {
+    "question": "Nilai dari sin 60° adalah...",
+    "options": [
+      "1/2",
+      "√2/2",
+      "√3/2",
+      "1"
+    ],
+    "correct_answer": "√3/2"
+  },
+  {
+    "question": "Bayangan titik (2, -5) oleh refleksi terhadap sumbu-y adalah...",
+    "options": [
+      "(-2, -5)",
+      "(2, 5)",
+      "(-2, 5)",
+      "(5, 2)"
+    ],
+    "correct_answer": "(-2, -5)"
+  },
+  {
+    "question": "Turunan dari fungsi f(x) = x sin(x) adalah...",
+    "options": [
+      "cos(x)",
+      "sin(x) + x cos(x)",
+      "x cos(x)",
+      "sin(x) - x cos(x)"
+    ],
+    "correct_answer": "sin(x) + x cos(x)"
+  },
+  {
+    "question": "Nilai dari cos 135° adalah...",
+    "options": [
+      "1/2",
+      "-√2/2",
+      "√2/2",
+      "-1/2"
+    ],
+    "correct_answer": "-√2/2"
+  },
+  {
+    "question": "Persentil ke-50 dari suatu data sama dengan...",
+    "options": [
+      "Rata-rata",
+      "Median",
+      "Modus",
+      "Kuartil atas"
+    ],
+    "correct_answer": "Median"
+  },
+  {
+    "question": "Persamaan garis yang melalui titik (4, -1) dan tegak lurus sumbu-y adalah...",
+    "options": [
+      "x = 4",
+      "y = -1",
+      "y = 4",
+      "x = -1"
+    ],
+    "correct_answer": "y = -1"
+  },
+  {
+    "question": "Nilai dari tan 60° adalah...",
+    "options": [
+      "1",
+      "√3",
+      "1/√3",
+      "tak terdefinisi"
+    ],
+    "correct_answer": "√3"
+  },
+  {
+    "question": "Volume limas dengan luas alas 20 cm² dan tinggi 9 cm adalah...",
+    "options": [
+      "60 cm³",
+      "90 cm³",
+      "180 cm³",
+      "540 cm³"
+    ],
+    "correct_answer": "60 cm³"
+  },
+  {
+    "question": "Integral dari (3x² + 2x - 1) terhadap x adalah...",
+    "options": [
+      "x³ + x² - x + C",
+      "6x + 2 + C",
+      "3x³ + 2x² - x + C",
+      "x³ + x² - 1 + C"
+    ],
+    "correct_answer": "x³ + x² - x + C"
+  },
+  {
+    "question": "Nilai dari sin 135° adalah...",
+    "options": [
+      "1/2",
+      "√2/2",
+      "-√2/2",
+      "-1/2"
+    ],
+    "correct_answer": "√2/2"
+  },
+  {
+    "question": "Bayangan titik (-1, 3) oleh dilatasi dengan pusat (0, 0) dan faktor skala 2 adalah...",
+    "options": [
+      "(-2, 6)",
+      "(2, -6)",
+      "(1/2, 3/2)",
+      "(-1/2, 3/2)"
+    ],
+    "correct_answer": "(-2, 6)"
+  },
+  {
+    "question": "Turunan dari fungsi f(x) = cos(2x) adalah...",
+    "options": [
+      "-sin(2x)",
+      "2sin(2x)",
+      "-2sin(2x)",
+      "sin(2x)"
+    ],
+    "correct_answer": "-2sin(2x)"
+  },
+  {
+    "question": "Nilai dari cos 225° adalah...",
+    "options": [
+      "1/2",
+      "-√2/2",
+      "√2/2",
+      "-1/2"
+    ],
+    "correct_answer": "-√2/2"
+  },
+  {
+    "question": "Desil ke-5 dari suatu data sama dengan...",
+    "options": [
+      "Kuartil pertama",
+      "Median",
+      "Kuartil ketiga",
+      "Persentil ke-25"
+    ],
+    "correct_answer": "Median"
+  },
+  {
+    "question": "Persamaan garis yang melalui titik (-2, -3) dan bergradien 1/2 adalah...",
+    "options": [
+      "y = 1/2x - 2",
+      "y = 1/2x + 2",
+      "y = 2x + 1",
+      "y = -1/2x - 4"
+    ],
+    "correct_answer": "y = 1/2x - 2"
+  },
+  {
+    "question": "Nilai dari tan 30° adalah...",
+    "options": [
+      "1",
+      "√3",
+      "1/√3",
+      "tak terdefinisi"
+    ],
+    "correct_answer": "1/√3"
+  },
+  {
+    "question": "Volume bola dengan diameter 10 cm adalah...",
+    "options": [
+      "1000/3 π cm³",
+      "500/3 π cm³",
+      "400/3 π cm³",
+      "125π cm³"
+    ],
+    "correct_answer": "500/3 π cm³"
+  },
+  {
+    "question": "Integral dari sec²(x) terhadap x adalah...",
+    "options": [
+      "tan(x) + C",
+      "-tan(x) + C",
+      "cot(x) + C",
+      "-cot(x) + C"
+    ],
+    "correct_answer": "tan(x) + C"
+  },
+  {
+    "question": "Nilai dari sin 240° adalah...",
+    "options": [
+      "1/2",
+      "-√3/2",
+      "√3/2",
+      "-1/2"
+    ],
+    "correct_answer": "-√3/2"
+  },
+  {
+    "question": "Bayangan titik (5, -1) oleh refleksi terhadap garis y = x adalah...",
+    "options": [
+      "(-1, 5)",
+      "(1, -5)",
+      "(5, -1)",
+      "(-5, 1)"
+    ],
+    "correct_answer": "(-1, 5)"
+  },
+  {
+    "question": "Turunan dari fungsi f(x) = (x² + 1) / x adalah...",
+    "options": [
+      "1 - 1/x²",
+      "2x - 1/x²",
+      "1 + 1/x²",
+      "2x + 1/x²"
+    ],
+    "correct_answer": "1 - 1/x²"
+  },
+  {
+    "question": "Nilai dari cos 300° adalah...",
+    "options": [
+      "1/2",
+      "-1/2",
+      "√3/2",
+      "-√3/2"
+    ],
+    "correct_answer": "1/2"
+  },
+  {
+    "question": "Ragam (variance) dari data: 1, 3, 5, 7, 9 adalah...",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "correct_answer": "8"
+  },
+  {
+    "question": "Persamaan garis yang melalui titik (1, 5) dan sejajar sumbu-y adalah...",
+    "options": [
+      "x = 1",
+      "y = 5",
+      "y = 1",
+      "x = 5"
+    ],
+    "correct_answer": "x = 1"
+  },
+  {
+    "question": "Nilai dari tan 270° adalah...",
+    "options": [
+      "0",
+      "1",
+      "tak terdefinisi",
+      "-1"
+    ],
+    "correct_answer": "tak terdefinisi"
+  },
+  {
+    "question": "Luas permukaan tabung tanpa tutup dengan jari-jari alas 4 cm dan tinggi 7 cm adalah...",
+    "options": [
+      "88π cm²",
+      "56π cm²",
+      "112π cm²",
+      "40π cm²"
+    ],
+    "correct_answer": "56π cm²"
+  },
+  {
+    "question": "Integral dari (4x³ - 6x + 2) terhadap x adalah...",
+    "options": [
+      "x⁴ - 3x² + 2x + C",
+      "12x² - 6 + C",
+      "4x⁴ - 6x² + 2x + C",
+      "x⁴ - 3x² + C"
+    ],
+    "correct_answer": "x⁴ - 3x² + 2x + C"
+  },
+  {
+    "question": "Nilai dari sin 300° adalah...",
+    "options": [
+      "1/2",
+      "-1/2",
+      "√3/2",
+      "-√3/2"
+    ],
+    "correct_answer": "-√3/2"
+  },
+  {
+    "question": "Bayangan titik (0, -3) oleh rotasi 180° terhadap pusat (0, 0) adalah...",
+    "options": [
+      "(0, 3)",
+      "(3, 0)",
+      "(0, -3)",
+      "(-3, 0)"
+    ],
+    "correct_answer": "(0, 3)"
+  },
+  {
+    "question": "Turunan dari fungsi f(x) = tan(x) adalah...",
+    "options": [
+      "sec²(x)",
+      "-sec²(x)",
+      "cot(x)",
+      "-cot(x)"
+    ],
+    "correct_answer": "sec²(x)"
+  },
+  {
+    "question": "Nilai dari cos 330° adalah...",
+    "options": [
+      "1/2",
+      "-1/2",
+      "√3/2",
+      "-√3/2"
+    ],
+    "correct_answer": "√3/2"
+  },
+  {
+    "question": "Koefisien korelasi Pearson (r) selalu berada dalam rentang...",
+    "optio
